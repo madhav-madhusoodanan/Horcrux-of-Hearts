@@ -5,6 +5,7 @@ A place for the creative of souls. Immortalize your loved ones and enshrine your
 <ol>
   <li>Fork the repository
   <li>Create a folder, or open a folder with the name of the emotion with which you will create the poem.
+  <li>Encase a part of your heart as a poem, into a .txt file
   <li>Add your poem to the folder and create a pull request
 </ol>
 
